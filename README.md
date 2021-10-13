@@ -1,6 +1,6 @@
-### This is a ATM Robbery script for Qbus
+# This is a ATM Robbery script for Qbus
 
-# Dependencies
+### Dependencies
 
 - BT-Target
 - QBCore Framework
